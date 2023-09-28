@@ -11,6 +11,8 @@ Explore my diverse range of projects, from [I have Created a few projects like S
 I bring a unique set of skills to the table, including:
 
 [Html]
+[Java]
+[C++]
 [CSS]
 [Python]
 [Java Script]
