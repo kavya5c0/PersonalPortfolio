@@ -14,6 +14,7 @@ I bring a unique set of skills to the table, including:
 [CSS]
 [Python]
 [Java Script]
+
 🚀 My Mission:
 My mission is to [A good Developer, e.g., "craft user-friendly websites that make an impact" or "create visually stunning designs that inspire and captivate"]. I'm always eager to take on new challenges and collaborate on exciting projects.
 
